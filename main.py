@@ -84,17 +84,18 @@ if __name__ == "__main__":
     main()
 
 
-
-
-
-
-
-
-# bookstore = Bookstore
+# class User:
+#     def __init__(self, first_name, last_name, age):
+#         self.first_name = first_name
+#         self.last_name = last_name
+#         self.age = age
 #
-# bookstore.add_book(Bookstore([]))
+#     @property
+#     def full_name(self):
+#         return f"{self.first_name} {self.last_name}"
 #
-# # bookstore.remove_from_lib(Bookstore([]))
 #
-# bookstore.get_lib(Bookstore([]))
+# user = User("Stepan", "Bandera", 114)
+#
+# print(user.full_name)
 
